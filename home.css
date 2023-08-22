@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+}
+
+.header
+{
+	background-color: #252529;
+	height: 40px;
+	margin: 0;
+	text-align: center;
+}
+
+.links{
+	padding: 20px;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+#dances_of_india{
+	width: 100%;
+	height: 600px;
+	margin: 2px;
+}
+
+.row{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+column-gap: 5px;
+}
+.row img{
+transition: 1s ease;
+}
+
+.row img:hover{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
+
+
