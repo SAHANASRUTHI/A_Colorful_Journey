@@ -12,4 +12,4 @@ India boasts a kaleidoscope of dance forms, each reflecting the cultural, region
 
 - **Visual Delight**: Dive into the colorful world of Indian dance with high-quality images and videos showcasing the beauty of these art forms.
 
-- **Contribute**: Share your knowledge and insights to help us expand and enrich this repository.
+- **Contribute**: Share your knowledge and insights to help to expand and enrich this repository.
